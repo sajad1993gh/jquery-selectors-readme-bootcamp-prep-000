@@ -1,1 +1,4 @@
 // declare your functions here...
+//element selector: $('img')
+//Class selector:  $('.pics')
+//ID selector:     $('#baby-ninja')
