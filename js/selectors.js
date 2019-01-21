@@ -3,3 +3,4 @@
 //Class selector:  $('.pics')
 //ID selector:     $('#baby-ninja')
 //Descendant Selector: $('ul li')
+//First Child:         $
