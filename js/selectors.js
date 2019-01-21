@@ -1,5 +1,5 @@
 // declare your functions here...
-//element selector: $('img')
+//element selector(tag): $('img')
 //Class selector:  $('.pics')
 //ID selector:     $('#baby-ninja')
 //Descendant Selector: $('ul li')
