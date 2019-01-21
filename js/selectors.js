@@ -7,5 +7,5 @@
 //Alt Tag Selector:   $("img[alt='the beatles making faces']")
 //Last Selector:      $('div:last')
 function paragraphSelector(){
-  $('p')
+  return $('p')
 }
