@@ -6,3 +6,6 @@
 //First Child:          $('parent-tag child-tag:first-child') . $('div img#baby-ninja')
 //Alt Tag Selector:   $("img[alt='the beatles making faces']")
 //Last Selector:      $('div:last')
+function paragraphSelector(){
+  
+}
